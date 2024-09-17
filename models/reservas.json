@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nombre": "Branco Riffo Miranda",
+    "habitacion": "121",
+    "hotel": "Hotel Paraíso",
+    "tipo_habitacion": "SUITE",
+    "fecha_inicio": "2024-10-13",
+    "fecha_fin": "2024-10-31",
+    "estado": "PENDIENTE",
+    "num_huespedes": 2
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos Gómez",
+    "habitacion": "103",
+    "hotel": "Hotel Paraíso",
+    "tipo_habitacion": "SIMPLE",
+    "fecha_inicio": "2024-10-01",
+    "fecha_fin": "2024-10-03",
+    "estado": "CANCELADA",
+    "num_huespedes": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Ana López",
+    "habitacion": "104",
+    "hotel": "Hotel Sol",
+    "tipo_habitacion": "DOBLE",
+    "fecha_inicio": "2024-09-25",
+    "fecha_fin": "2024-10-10",
+    "estado": "CONFIRMADA",
+    "num_huespedes": 2
+  },
+  {
+    "id": 5,
+    "nombre": "Javier Fernández",
+    "habitacion": "105",
+    "hotel": "Hotel Estrella",
+    "tipo_habitacion": "SUITE",
+    "fecha_inicio": "2024-11-10",
+    "fecha_fin": "2024-11-30",
+    "estado": "PENDIENTE",
+    "num_huespedes": 4
+  },
+  {
+    "id": 6,
+    "nombre": "Isabel Sánchez",
+    "habitacion": "106",
+    "hotel": "Hotel Paraíso",
+    "tipo_habitacion": "SIMPLE",
+    "fecha_inicio": "2024-09-30",
+    "fecha_fin": "2024-10-15",
+    "estado": "CONFIRMADA",
+    "num_huespedes": 1
+  },
+  {
+    "id": 7,
+    "nombre": "David Ruiz",
+    "habitacion": "107",
+    "hotel": "Hotel Estrella",
+    "tipo_habitacion": "DOBLE",
+    "fecha_inicio": "2024-12-01",
+    "fecha_fin": "2024-12-15",
+    "estado": "CANCELADA",
+    "num_huespedes": 2
+  },
+  {
+    "id": 8,
+    "nombre": "Patricia Vega",
+    "habitacion": "108",
+    "hotel": "Hotel Sol",
+    "tipo_habitacion": "SIMPLE",
+    "fecha_inicio": "2024-11-05",
+    "fecha_fin": "2024-11-25",
+    "estado": "CONFIRMADA",
+    "num_huespedes": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Luis Torres",
+    "habitacion": "109",
+    "hotel": "Hotel Paraíso",
+    "tipo_habitacion": "SUITE",
+    "fecha_inicio": "2024-10-15",
+    "fecha_fin": "2024-10-30",
+    "estado": "PENDIENTE",
+    "num_huespedes": 3
+  },
+  {
+    "id": 10,
+    "nombre": "Marta Castro",
+    "habitacion": "110",
+    "hotel": "Hotel Estrella",
+    "tipo_habitacion": "SIMPLE",
+    "fecha_inicio": "2024-10-20",
+    "fecha_fin": "2024-10-30",
+    "estado": "CONFIRMADA",
+    "num_huespedes": 1
+  },
+  {
+    "id": 11,
+    "nombre": "Roberto Manflis",
+    "habitacion": "111",
+    "hotel": "Hotel Paraíso",
+    "tipo_habitacion": "DOBLE",
+    "fecha_inicio": "2024-09-10",
+    "fecha_fin": "2024-09-25",
+    "estado": "CONFIRMADA",
+    "num_huespedes": 4
+  }
+]
